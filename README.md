@@ -51,7 +51,7 @@ I'm **Ananthnath Erukulla**, a final-year B.Tech CSE student at **Lovely Profess
 
 ### 🔥 GitHub Streak
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=AnanthnathErukulla&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ananth0701&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
