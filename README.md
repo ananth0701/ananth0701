@@ -14,9 +14,10 @@ I'm **Ananthnath Erukulla**, a final-year B.Tech CSE student at **Lovely Profess
 ---
 
 ### 🏆 Achievements
-- 🔎 Worked on real-world case studies involving **data storytelling** and **automated dashboards**
-- 🛠 Built ML models for classification, predictions, and pattern analysis
-- 📈 Developed Tableau dashboards for business and e-commerce datasets
+- 📈 Created multiple interactive dashboards using Tableau and Power BI
+- 🔍 Developed ML models for classification and prediction problems
+- 📊 Automated EC2 instance backup with AWS Backup for disaster recovery
+- 🛠 Built and deployed end-to-end data analysis projects
 
 ---
 
@@ -37,14 +38,14 @@ I'm **Ananthnath Erukulla**, a final-year B.Tech CSE student at **Lovely Profess
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananthnath-erukulla)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ananthnatherukulla@gmail.com)
 [![Tableau Public](https://img.shields.io/badge/-Tableau-00aaff?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ananthnath.erukulla)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AnanthnathErukulla)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/ananth0701)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthnathErukulla&show_icons=true&theme=radical" alt="Ananthnath's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthnathErukulla&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananth0701&show_icons=true&theme=radical" alt="Ananthnath's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth0701&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -66,4 +67,3 @@ I'm **Ananthnath Erukulla**, a final-year B.Tech CSE student at **Lovely Profess
 ---
 
 _“Turning data into decisions. One dashboard at a time.”_
-
